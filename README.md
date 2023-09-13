@@ -55,17 +55,17 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
 
 1. The elbow graph is a visual representation used in K-Means clustering to determine the optimal number of clusters:
    
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/elbow%20graph%20kmeans.png)
+   ![](./img/elbow graph kmeans.png)
 
 2. A scatter plot 2D for composed data:
    
    ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/scatter%20kmeans.png)
 
-3. Bar Chat for representing size of each cluster:
+3. Bar Chat for representing the size of each cluster:
    
    ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/bar%20kmeans.png)
 
-4. Pie Char for percentage of each cluster:
+4. Pie Char for the percentage of each cluster:
    
    <img title="" src="file:///home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/pie%20kmeans.png" alt="" width="348">
 
