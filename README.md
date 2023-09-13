@@ -88,15 +88,19 @@ Hierarchical clustering is another unsupervised machine learning algorithm used 
 ## Data Visualisation
 
 1. A dendrogram is a tree-like diagram. It displays the hierarchical relationships between data points or clusters and used to determine optimal number of clusters:
+
    <img src="./img/Dendrogram hc.png" title="" alt="" width="442">
    
 3. A scatter plot 2D for composed data:
+
    <img src="./img/scatter hc.png" title="" alt="" width="442">
 
-4. Bar Chat for representing the size of each cluster:
+5. Bar Chat for representing the size of each cluster:
+
    <img src="./img/bar hc.png" title="" alt="" width="442">
 
-5. Pie Char for the percentage of each cluster:
+7. Pie Char for the percentage of each cluster:
+
    <img src="./img/pie hc.png" title="" alt="" width="442">
 
 ## Conclusion
