@@ -57,16 +57,13 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
    <img src="./img/elbow graph kmeans.png" title="" alt="" width="442">
 
 3. A scatter plot 2D for composed data:
+   <img src="./img/scatter kmeans.png" title="" alt="" width="442">
+  
+5. Bar Chat for representing the size of each cluster:
+   <img src="./img/bar kmeans.png" title="" alt="" width="442">
    
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/scatter%20kmeans.png)
-
-4. Bar Chat for representing the size of each cluster:
-   
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/bar%20kmeans.png)
-
-5. Pie Char for the percentage of each cluster:
-   
-   <img title="" src="file:///home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/pie%20kmeans.png" alt="" width="348">
+7. Pie Char for the percentage of each cluster:
+   <img src="./img/pie kmeans.png" title="" alt="" width="442">
 
 ---
 
@@ -87,20 +84,16 @@ Hierarchical clustering is another unsupervised machine learning algorithm used 
 ## Data Visualisation
 
 1. A dendrogram is a tree-like diagram. It displays the hierarchical relationships between data points or clusters and used to determine optimal number of clusters:
+   <img src="./img/Dendrogram hc.png" title="" alt="" width="442">
    
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/Dendrogram%20hc.png)
+3. A scatter plot 2D for composed data:
+   <img src="./img/scatter hc.png" title="" alt="" width="442">
 
-2. A scatter plot 2D for composed data:
-   
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/scatter%20hc.png)
+4. Bar Chat for representing the size of each cluster:
+   <img src="./img/bar hc.png" title="" alt="" width="442">
 
-3. Bar Chat for representing size of each cluster:
-   
-   ![](/home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/bar%20hc.png)
-
-4. Pie Char for percentage of each cluster:
-   
-   <img title="" src="file:///home/mahmoud/Documents/Career/internship/The%20Sparks%20Foundation/Iris-Clusters/img/pie%20hc.png" alt="" width="339">
+5. Pie Char for the percentage of each cluster:
+   <img src="./img/pie hc.png" title="" alt="" width="442">
 
 ## Conclusion
 
