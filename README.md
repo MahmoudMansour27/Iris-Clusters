@@ -61,11 +61,11 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
 
    <img src="./img/scatter kmeans.png" title="" alt="" width="442">
   
-5. Bar Chat for representing the size of each cluster:
+5. Bar Chart for representing the size of each cluster:
 
    <img src="./img/bar kmeans.png" title="" alt="" width="442">
    
-7. Pie Char for the percentage of each cluster:
+7. Pie Chart for the percentage of each cluster:
 
    <img src="./img/pie kmeans.png" title="" alt="" width="442">
 
@@ -95,11 +95,11 @@ Hierarchical clustering is another unsupervised machine learning algorithm used 
 
    <img src="./img/scatter hc.png" title="" alt="" width="442">
 
-5. Bar Chat for representing the size of each cluster:
+5. Bar Chart for representing the size of each cluster:
 
    <img src="./img/bar hc.png" title="" alt="" width="442">
 
-7. Pie Char for the percentage of each cluster:
+7. Pie Chart for the percentage of each cluster:
 
    <img src="./img/pie hc.png" title="" alt="" width="442">
 
